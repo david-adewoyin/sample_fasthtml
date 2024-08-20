@@ -2,11 +2,12 @@
 
 A sample blog application demonstrating the use of FastHTML.
 
-### setup instruction
-
-1. Install the required dependencies  
+### Setup instruction
+1. Clone the repository  
+   ``` git clone https://github.com/david-adewoyin/sample_fasthtml.git ```
+2. Install the required dependency  
     ```pip install python-fasthtml ```
-2. Run the application   
+3. Run the application     
    ``` python main.py ```
 
 ### Screenshot
