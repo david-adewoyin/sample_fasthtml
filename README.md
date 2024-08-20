@@ -10,5 +10,6 @@ A sample blog application demonstrating the use of FastHTML.
 3. Run the application     
    ``` python main.py ```
 
-### Screenshot
-![screenshot](screenshot.png)
+### Screenshots
+<img src="screenshot.png" alt="Screenshot 0" height="400"/>
+<img src="https://github.com/user-attachments/assets/9258e14b-21ef-4e28-999f-478da7460b46" alt="Screenshot 1" height="400"/>
